@@ -59,9 +59,9 @@ footer_show_references: false
 # Build settings
 remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+#  sass_dir: _sass
+#  style: compressed
 
-plugins:
- - jekyll-seo-tag
+#plugins:
+# - jekyll-seo-tag

@@ -1,9 +1,21 @@
-- layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+- company: Indian Institute of Science
+  dates: May 2019 - July 2019
+  job_title: Summer Research Intern
+  description: |
+    Worked at the Spectrum Lab, under the guidance of [Dr. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/), 
+    on Sparse Independent Component Analysis for source separation in Neural Signals. During my time 
+    at the lab I implemented ICA algorithms on the dataset and analysed the differences in the 
+    independent components obtained. I also had the chance to participate in 
+    [BCL 2019](https://www.iisc.ac.in/events/bcl-2019-third-workshop-on-brain-computation-and-learning/)
+    workshop which helped me consolidate my interests. 
+
+- company: Chella Software Private Limited
+  link: www.chelsoft.com
+  dates: May 2018 - June 2018
+  job_title: Software Developer Intern
+  description: |
+    During my time at Chella Software I worked as part of an agile team building our own in house 
+    web based software and also a large scale website for an international client. I gained 
+    experience working with a continuous integration workflow using tools such as <mark>Jenkins</mark>.
+    I worked on building the front-end using <mark>Angular</mark>. Towards the end of my time at
+    Chella Software I was introduced to Hibernate ORM and Django.

@@ -3,30 +3,35 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+# Personal info
+name: Girish Mohan
+title: Undergraduate at Manipal Institute of Technology
+email: mohangiri1999@gmail.com
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: girish_m_m
+github_username:  girish-mohan
+facebook_username: girishmohan1999
+linkedin_username: girishmm
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name is Girish, a senior year Information Technology undergrad at Manipal Institute of 
+  Technology. My research interests lie in the Cognitive Science and Learning Theory. I have worked 
+  with a range of different languages and frameworks and I am always looking for opportunities 
+  to work with something new. The things that I currently have the most experience working with are:
+  <mark>Javascript</mark>,
+  <mark>Angular</mark>
+  <mark>Java</mark>,
+  <mark>Python</mark>,
+  <mark>Android</mark>,
+  <mark>Swift</mark>, and
+  <mark>Matlab</mark>.
+  
+  A proud Tamilian hailing from Madurai, I spend my leisure time cycling to 
+  new destinations or playing the violin.
 
 # Projects Section
 # projects_title: Projects
@@ -40,14 +45,16 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+  When I'm not at my desk I am very active and spend most of my time outdoors. I do a lot a 
+  sports such as road cycling, and running as well as trying to make time for things like playing 
+  some basketball and football. Since my time at Uni I have become a very keen 
+  marathoner. In 2018 I competed in my first half-marathon and completed it in sub 2 hours. I play
+  the violin, though mainly classical I try out covers now and then.
+  
+  Finally during the rest of my free time you will either find me working on my bikes, playing at one of
+  Manipal's basketball courts or down the football field.
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: sproogen/modern-resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
@@ -57,7 +57,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 #sass:
 #  sass_dir: _sass

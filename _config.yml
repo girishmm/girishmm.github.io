@@ -53,15 +53,16 @@ more_content: | # this will include new lines to allow paragraphs
   
   Finally during the rest of my free time you will either find me working on my bikes, playing at one of
   Manipal's basketball courts or down the football field.
+
 # Footer
 footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
 
-#sass:
-#  sass_dir: _sass
-#  style: compressed
+sass:
+  sass_dir: _sass
+  style: compressed
 
-#plugins:
-# - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag

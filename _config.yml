@@ -1,12 +1,13 @@
 # Site
 repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 # Personal info
 name: Girish Mohan
 title: Undergraduate at Manipal Institute of Technology
 email: mohangiri1999@gmail.com
+resume: www.google.com
 
 # Social links
 twitter_username: girish_m_m
@@ -19,9 +20,9 @@ linkedin_username: girishmm
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Girish, a senior year Information Technology undergrad at Manipal Institute of 
-  Technology. My research interests lie in the Cognitive Science and Learning Theory. I have worked 
-  with a range of different languages and frameworks and I am always looking for opportunities 
-  to work with something new. The things that I currently have the most experience working with are:
+  Technology. My research interests lie at the intersection of Cognitive Science and Artificial 
+  Intelligence. I am currently looking for opportunities to work on a project in this area. The 
+  things that I currently have the most experience working with are:
   <mark>Javascript</mark>,
   <mark>Angular</mark>
   <mark>Java</mark>,
@@ -30,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Swift</mark>, and
   <mark>Matlab</mark>.
   
-  A proud Tamilian hailing from Madurai, I spend my leisure time cycling to 
+  A proud Tamizhan hailing from Madurai, I spend my leisure time cycling to 
   new destinations or playing the violin.
 
 # Projects Section
@@ -45,17 +46,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  When I'm not at my desk I am very active and spend most of my time outdoors. I do a lot a 
-  sports such as road cycling, and running as well as trying to make time for things like playing 
-  some basketball and football. Since my time at Uni I have become a very keen 
-  marathoner. In 2018 I competed in my first half-marathon and completed it in sub 2 hours. I play
-  the violin, though mainly classical I try out covers now and then.
-  
-  Finally during the rest of my free time you will either find me working on my bikes, playing at one of
-  Manipal's basketball courts or down the football field.
+  When I'm not at my desk I am very active and spend most of my time outdoors. During my time at Uni 
+  I have become a very keen marathoner. In 2018 I participated in my first half-marathon and completed 
+  it in sub two hours. In the rest of my free time you will either find me working on my bikes, 
+  playing at one of Manipal's basketball courts or down the football field.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

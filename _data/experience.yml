@@ -4,10 +4,29 @@
   description: |
     Worked at the Spectrum Lab, under the guidance of [Dr. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/), 
     on Sparse Independent Component Analysis for source separation in Neural Signals. During my time 
-    at the lab I implemented ICA algorithms on the dataset and analysed the differences in the 
-    independent components obtained. I also had the chance to participate in 
-    [BCL 2019](https://www.iisc.ac.in/events/bcl-2019-third-workshop-on-brain-computation-and-learning/)
-    workshop which helped me consolidate my interests. 
+    at the lab I implemented ICA algorithms on an EEG dataset to obtain the independent components 
+    and detect artifacts. I also had the chance to participate in [BCL 2019](https://www.iisc.ac.in/events/bcl-2019-third-workshop-on-brain-computation-and-learning/)
+    workshop which helped me consolidate my interests.
+
+- company: Team SolarMobil
+  link: www.solarmobilmanipal.in
+  dates: November 2017 - November 2018
+  job_title: Telemetry Engineer
+  description: |
+    SolarMobil is a student team from Manipal Institute of Technology that aims to fabricate a solar
+    electric vehicle with a focus on practicality and feasibility. I was part of the team that 
+    successfully launched the SM-S1 and SM-S2 prototypes. My responsibilities included calibration of 
+    sensors, wiring inside the vehicle, and data visualization and monitoring of data transmitted 
+    from the sensors mounted on the solar powered car. To serve this purpose, a cloud based android 
+    application for remote monitoring and a pyQT interface on the dashboard was developed. Data 
+    sampled by the sensors is transmitted to Raspberry Pi through CAN protocol after application of 
+    filters like Kalman and median filters to reduce noise. The car is equipped with internet 
+    through GSM modules to store data in cloud. I integrated a reverse guidence system with Raspberry 
+    Pi and camera. 
+    
+    SolarMobil is the first student led Indian team to fabricate a successful solar 
+    powered prototype. The prototype was awarded the first position in ASME Student Contest and third 
+    place at Inter-University Contest.
 
 - company: Chella Software Private Limited
   link: www.chelsoft.com
@@ -18,4 +37,4 @@
     web based software and also a large scale website for an international client. I gained 
     experience working with a continuous integration workflow using tools such as <mark>Jenkins</mark>.
     I worked on building the front-end using <mark>Angular</mark>. Towards the end of my time at
-    Chella Software I was introduced to Hibernate ORM and Django.
+    Chella Software I was introduced to Hibernate ORM and Nodejs.

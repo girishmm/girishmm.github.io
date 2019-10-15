@@ -7,7 +7,7 @@ favicon: images/favicon.ico
 name: Girish Mohan
 title: Undergraduate at Manipal Institute of Technology
 email: mohangiri1999@gmail.com
-resume: www.google.com
+resume: https://drive.google.com/file/d/1DxUX_U-3kFGPJQjh3WaSpIcy5tt76-Ma/view?usp=sharing
 
 # Social links
 twitter_username: girish_m_m
@@ -17,7 +17,7 @@ linkedin_username: girishmm
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Girish, a senior year Information Technology undergrad at Manipal Institute of 
   Technology. My research interests lie at the intersection of Cognitive Science and Artificial 

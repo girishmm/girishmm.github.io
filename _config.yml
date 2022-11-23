@@ -19,9 +19,9 @@ linkedin_username: girishmm
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name is Girish, an Information Technology major from Manipal Institute of 
- Technology. My research interests primarily lie in Neuroscience. I am currently 
-  looking for opportunities to work on a project in this area. The things that I currently have 
+ Hi, my name is Girish, an Information Technology major from Manipal Institute of
+ Technology. My research interests primarily lie in Neuroscience. I am currently
+  looking for opportunities to work on a project in this area. The things that I currently have
   the most experience working with are:
   <mark>Javascript</mark>,
   <mark>Angular</mark>
@@ -30,8 +30,8 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Android</mark>,
   <mark>Swift</mark>, and
   <mark>Matlab</mark>.
-  
-  A proud Tamizhan hailing from Madurai, I spend my leisure time cycling to 
+
+  A proud Tamizhan hailing from Madurai, I spend my leisure time cycling to
   new destinations or playing the violin.
 
 # Projects Section
@@ -46,9 +46,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  When I'm not at my desk I am very active and spend most of my time outdoors. During my time at Uni 
-  I have become a very keen marathoner. In 2018 I participated in my first half-marathon and completed 
-  it in sub two hours. In the rest of my free time you will either find me working on my bikes, 
+  When I'm not at my desk I am very active and spend most of my time outdoors. During my time at Uni
+  I have become a very keen marathoner. In 2018 I participated in my first half-marathon and completed
+  it in sub two hours. In the rest of my free time you will either find me working on my bikes,
   playing at one of Manipal's basketball courts or down the football field.
 
 # Footer

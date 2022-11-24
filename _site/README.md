@@ -13,9 +13,9 @@
   <p align="center">
 	Welcome to the internet home of Girish!
 	<br />
-	<a href="https://gitlab.ncbs.res.in/girishmm/napi/issues">Report Bug</a>
+	<a href="https://github.com/girishmm/girishmm.github.io/issues">Report Bug</a>
 	·
-	<a href="https://gitlab.ncbs.res.in/girishmm/napi/issues">Request info</a>
+	<a href="https://github.com/girishmm/girishmm.github.io/issues">Request info</a>
   </p>
 </div>
 

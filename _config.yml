@@ -3,48 +3,31 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-# Personal info
 name: Girish Mohan
-title: Undergraduate at Manipal Institute of Technology
-email: mohangiri1999@gmail.com
-resume: https://drive.google.com/file/d/1HTSRiiLA30IPcPv7j9r5vl1Xs585PYe_/view?usp=sharing
+title: Research Assistant at NCBS-TIFR
 
-# Social links
-twitter_username: girish_m_m
+# Links and details
 github_username:  girishmm
-facebook_username: girishmohan1999
-linkedin_username: girishmm
+mail_username: girishmm@ncbs.res.in
+curriculum_vitae: https://drive.google.com/file/d/15bswgponMumcDb49qJ3y2WvDZflOYlSg/view?usp=sharing
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name is Girish, an Information Technology major from Manipal Institute of
- Technology. My research interests primarily lie in Neuroscience. I am currently
-  looking for opportunities to work on a project in this area. The things that I currently have
-  the most experience working with are:
-  <mark>Javascript</mark>,
-  <mark>Angular</mark>
-  <mark>Java</mark>,
-  <mark>Python</mark>,
-  <mark>Android</mark>,
-  <mark>Swift</mark>, and
-  <mark>Matlab</mark>.
-
-  A proud Tamizhan hailing from Madurai, I spend my leisure time cycling to
-  new destinations or playing the violin.
+  Hi there, I'm Girish, an Information Technology major. I’m interested in the fascinating area that lies at the intersection of machine learning and neuroscience. I am convinced that a better understanding of the brain will lead to designing models that are truly 'intelligent'.
 
 # Projects Section
 # projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   When I'm not at my desk I am very active and spend most of my time outdoors. During my time at Uni
   I have become a very keen marathoner. In 2018 I participated in my first half-marathon and completed
